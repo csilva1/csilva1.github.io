@@ -28,9 +28,9 @@ th, td {
     padding: 3px;
     text-align: left;
 }
-.travel a:visited {
+#travel a:visited {
     color: hotpink;
 }
-.travel a:link {
+#travel a:link {
     color: orange;
 }
