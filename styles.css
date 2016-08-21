@@ -11,3 +11,10 @@ h1 {
 	margin: 1px;
 	background-color: white;
 }
+footer {
+	margin: -5px auto;
+	width: 100%;
+	position:fixed;
+	bottom: 0px;
+	text-align: center;
+}
